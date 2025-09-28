@@ -5,8 +5,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Welcome to MLM Network</h1>
-    <p>Click the button to see people in mlm fields</p>
-    <a href="" class="btn btn-primary">Find People</a>
+    <h1>Welcome to ninja boy Network</h1>
+    <p>Click the button to see people in ninja boy fields</p>
+    <a href="/ninjas" class="btn btn-primary">Find People</a>
 </body>
 </html>
